@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ежедневния циник</title>
-    <link>https://gohugo.io/</link>
+    <link>https://datalong2121.github.io/</link>
     <description>Recent content on Ежедневния циник</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bg</language>
     <copyright>Copyright License by Ежедневния циник</copyright>
-    <lastBuildDate>Thu, 05 Aug 2021 09:17:42 +0300</lastBuildDate><atom:link href="https://gohugo.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Aug 2021 09:17:42 +0300</lastBuildDate><atom:link href="https://datalong2121.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Тошко Африкански от село ИТН</title>
-      <link>https://gohugo.io/2021/08/05/toshko/</link>
+      <link>https://datalong2121.github.io/2021/08/05/toshko/</link>
       <pubDate>Thu, 05 Aug 2021 09:17:42 +0300</pubDate>
       
-      <guid>https://gohugo.io/2021/08/05/toshko/</guid>
+      <guid>https://datalong2121.github.io/2021/08/05/toshko/</guid>
       <description>Впечатленията ми от Тошко арогантния простак от ИТН са крайно негативни, това не е изненада за абсолютно никого. Дори и най-смелите ИТН хардлайнери са изумени какъв самовлюбен селтак Слави е избрал за своя дясна ръка. Пардон, какви безпардонни селяци Слави, който доказва че е умен колкото цяло стадо тапири и независим колкото независим е Гешев от ДПС и Шиши, е сложил да му ръководят партийката. Която впрочем, дори не можа да се превърне в следващия спасител, а ще се разпадне безславно още преди да е просъществувала реално.</description>
     </item>
     
     <item>
       <title>&#39;Сламен&#39; Николов</title>
-      <link>https://gohugo.io/2021/08/04/slamen/</link>
+      <link>https://datalong2121.github.io/2021/08/04/slamen/</link>
       <pubDate>Wed, 04 Aug 2021 14:20:14 +0300</pubDate>
       
-      <guid>https://gohugo.io/2021/08/04/slamen/</guid>
+      <guid>https://datalong2121.github.io/2021/08/04/slamen/</guid>
       <description>Чичо ви Сламен сламеното човече на хората зад хората зад чичо ви Слави реди правителство. Правителство от напълно непознати (имаше един такъв прекрасен американски сериал &amp;ldquo;Напълно непознати&amp;rdquo;) лица. Но ако си мислите, че чичо ви Сламен ще избира чисти хора се лъжете много сериозно.
 Огин е Сламен Николов. Чичо Сламен и ИТН (и тъй нататък) редили до снощи правителството на анонимните не алкохолици, а политици.</description>
     </item>
     
     <item>
       <title>Предложение за правителство от вашия любим политкоментатор</title>
-      <link>https://gohugo.io/2021/08/04/thefirst/</link>
+      <link>https://datalong2121.github.io/2021/08/04/thefirst/</link>
       <pubDate>Wed, 04 Aug 2021 12:53:09 +0300</pubDate>
       
-      <guid>https://gohugo.io/2021/08/04/thefirst/</guid>
+      <guid>https://datalong2121.github.io/2021/08/04/thefirst/</guid>
       <description>В период на тежка олигофрения, не е лошо ние с вас да предложим правителство. Започваме разбира се с министър-предателя&amp;hellip; пардон, председателя:
 Бойко Методиев Борисов - знае един език, българският му е втори. Откровен простак и мошеник, нагъл и арогантен при това. Като гледам прекрасно представлява по-голямата част от нашето население, така че неслучайно беше 12 години на власт, а защо да не продължи?
   Министерство на икономиката - Веждичката Рашидов - човека си е класен пияница и корумпиран клозетаджия.</description>
@@ -40,65 +40,65 @@
     
     <item>
       <title>About</title>
-      <link>https://gohugo.io/about/</link>
+      <link>https://datalong2121.github.io/about/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo.io/about/</guid>
+      <guid>https://datalong2121.github.io/about/</guid>
       <description>За съжаление, повечето от вас никога няма да разберат кой е Ежедневния циник. Това не пречи да се кефите на разсъжденията му.
 Бойко Борисов е педераст! </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://gohugo.io/archives/</link>
+      <link>https://datalong2121.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo.io/archives/</guid>
+      <guid>https://datalong2121.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://gohugo.io/2019/03/11/markdown-syntax/</link>
+      <link>https://datalong2121.github.io/2019/03/11/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo.io/2019/03/11/markdown-syntax/</guid>
+      <guid>https://datalong2121.github.io/2019/03/11/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://gohugo.io/2019/03/10/rich-content/</link>
+      <link>https://datalong2121.github.io/2019/03/10/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo.io/2019/03/10/rich-content/</guid>
+      <guid>https://datalong2121.github.io/2019/03/10/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://gohugo.io/2019/03/09/placeholder-text/</link>
+      <link>https://datalong2121.github.io/2019/03/09/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo.io/2019/03/09/placeholder-text/</guid>
+      <guid>https://datalong2121.github.io/2019/03/09/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://gohugo.io/2019/03/08/math-typesetting/</link>
+      <link>https://datalong2121.github.io/2019/03/08/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo.io/2019/03/08/math-typesetting/</guid>
+      <guid>https://datalong2121.github.io/2019/03/08/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://gohugo.io/2019/03/05/emoji-support/</link>
+      <link>https://datalong2121.github.io/2019/03/05/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo.io/2019/03/05/emoji-support/</guid>
+      <guid>https://datalong2121.github.io/2019/03/05/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
