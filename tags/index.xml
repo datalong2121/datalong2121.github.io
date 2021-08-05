@@ -2,90 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ежедневния циник</title>
-    <link>https://datalong2121.github.io/tags/</link>
+    <link>https://cinik.co/tags/</link>
     <description>Recent content in Tags on Ежедневния циник</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bg</language>
-    <copyright>Copyright License by Ежедневния циник</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://datalong2121.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>css</title>
-      <link>https://datalong2121.github.io/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://datalong2121.github.io/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://datalong2121.github.io/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://datalong2121.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://datalong2121.github.io/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://datalong2121.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://datalong2121.github.io/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://datalong2121.github.io/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://datalong2121.github.io/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://datalong2121.github.io/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://datalong2121.github.io/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://datalong2121.github.io/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://datalong2121.github.io/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://datalong2121.github.io/tags/text/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://datalong2121.github.io/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://datalong2121.github.io/tags/emoji/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>Copyright License by Ежедневния циник</copyright><atom:link href="https://cinik.co/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>index</title>
-      <link>https://datalong2121.github.io/tags/index/</link>
+      <link>https://cinik.co/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://datalong2121.github.io/tags/index/</guid>
+      <guid>https://cinik.co/tags/index/</guid>
       <description></description>
     </item>
     
