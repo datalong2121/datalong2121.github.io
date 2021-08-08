@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ежедневния циник</title>
-    <link>https://cinik.co/categories/</link>
+    <link>http://cinik.co/categories/</link>
     <description>Recent content in Categories on Ежедневния циник</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bg</language>
-    <copyright>Copyright License by Ежедневния циник</copyright><atom:link href="https://cinik.co/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright License by Ежедневния циник</copyright><atom:link href="http://cinik.co/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
