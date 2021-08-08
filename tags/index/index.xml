@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Ежедневния циник</title>
-    <link>http://cinik.co/tags/index/</link>
+    <link>https://cinik.co/tags/index/</link>
     <description>Recent content in index on Ежедневния циник</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bg</language>
-    <copyright>Copyright License by Ежедневния циник</copyright><atom:link href="http://cinik.co/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright License by Ежедневния циник</copyright><atom:link href="https://cinik.co/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>http://cinik.co/post/</link>
+      <link>https://cinik.co/post/</link>
       <pubDate>Thu, 05 Aug 2021 09:17:42 +0300</pubDate>
       
-      <guid>http://cinik.co/post/</guid>
+      <guid>https://cinik.co/post/</guid>
       <description></description>
     </item>
     
