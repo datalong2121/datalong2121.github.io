@@ -2,7 +2,7 @@
 theme = "singular"
 
 # Site Base Information
-baseURL = "https://gohugo.io/"
+baseURL = "http://cinik.co/"
 title = "Ежедневния циник"
 copyright = "Copyright License by Ежедневния циник"
 
@@ -20,9 +20,9 @@ pygmentsCodefences = true
 ignoreErrors = ["error-remote-getjson"]
 
 [params]
-  description = "Блогът на циника"
+  description = "ЗОНА СВОБОДНА ОТ ЦЕНЗУРА"
   [params.logo]
-    url = "/images/icon.jpg"
+    url = "/images/cinik.png"
 
 [markup]
   [markup.highlight]
