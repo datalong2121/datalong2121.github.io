@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ежедневния циник</title>
+    <link>http://cinik.co/tags/</link>
+    <description>Recent content in Tags on Ежедневния циник</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>bg</language>
+    <copyright>Copyright License by Ежедневния циник</copyright><atom:link href="http://cinik.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>index</title>
+      <link>http://cinik.co/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cinik.co/tags/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
